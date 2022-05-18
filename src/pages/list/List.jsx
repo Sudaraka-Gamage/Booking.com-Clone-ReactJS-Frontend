@@ -108,9 +108,10 @@ console.log(location)
           </div>
 
         </div>
-      </div>
-      <MailList/>
+        <MailList/>
       <Footer/>
+      </div>
+      
     </div>
   );
 };
