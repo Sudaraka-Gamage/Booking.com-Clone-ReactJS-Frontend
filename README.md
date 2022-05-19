@@ -7,6 +7,7 @@
 # List View Page Of the Booking Web
 ![4](https://user-images.githubusercontent.com/86683029/169266015-6e3dd89d-be18-4085-8cfa-15bcd0c947d2.png)
 ![5 5](https://user-images.githubusercontent.com/86683029/169266046-1ed9b529-77f1-47fd-9615-fe2c56b97777.png)
+# Hotel Page Of the Booking Web
 ![6](https://user-images.githubusercontent.com/86683029/169266091-94f5f0f1-4004-4849-8d82-8361a9729ce2.png)
 ![7](https://user-images.githubusercontent.com/86683029/169266097-64d5585f-92a8-40fb-91c0-2ee25271c974.png)
 ![9](https://user-images.githubusercontent.com/86683029/169266127-805d5ddd-4ba5-4f27-9a99-fa1bb0455753.png)
