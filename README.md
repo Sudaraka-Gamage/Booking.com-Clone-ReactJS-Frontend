@@ -4,7 +4,7 @@
 ![3](https://user-images.githubusercontent.com/86683029/169265840-c5a6a58f-454d-4f9e-a581-5e53fa9f10d3.png)
 
 
-|-------------------------List View Page-----------------------| 
+# List View Page Of the Booking Web
 ![4](https://user-images.githubusercontent.com/86683029/169266015-6e3dd89d-be18-4085-8cfa-15bcd0c947d2.png)
 ![5 5](https://user-images.githubusercontent.com/86683029/169266046-1ed9b529-77f1-47fd-9615-fe2c56b97777.png)
 ![6](https://user-images.githubusercontent.com/86683029/169266091-94f5f0f1-4004-4849-8d82-8361a9729ce2.png)
